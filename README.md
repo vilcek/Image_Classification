@@ -1,4 +1,4 @@
-This is an implementation n R of a deep learning framework proposed by [1] and applied for classification of handwritten digits [2]
+This is an implementation in R of a deep learning framework proposed by [1] and applied here for classification of handwritten digits [2]
 
 [1] Coates, A., Ng, A.Y.: Learning Feature Representations with K-means, G. Montavon, G. B. Orr, K.-R. uller (Eds.), Neural Networks: Tricks of the Trade, 2nd edn, Springer LNCS 7700, 2012
 
